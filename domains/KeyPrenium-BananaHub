@@ -1,0 +1,11 @@
+{
+     "description": "My portfolio",
+     "repo": "https://github.com/username/repo",
+     "owner": {
+       "username": "github-username-cua-ban",
+       "email": "email@example.com"
+     },
+     "record": {
+       "CNAME": "username.github.io"
+     }
+   }
